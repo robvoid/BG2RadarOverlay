@@ -19,6 +19,16 @@ An overlay program for Baldurs Gate 2 EE showing nearest enemies, their resistan
 
 Extract the archive inside your game folder
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=tapahob%2FBG2RadarOverlay&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=tapahob/BG2RadarOverlay&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=tapahob/BG2RadarOverlay&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=tapahob/BG2RadarOverlay&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## Possible Windows Defender false positives
 
 Windows Defender might find the archive to be infected with a virus - which is a false positive.
